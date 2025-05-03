@@ -1,0 +1,30 @@
+generations:
+  - name: "First Generation"
+    start_year: 1994
+    end_year: 2000
+    description: "The original Hyundai Verna was essentially a rebadged version of the Hyundai Accent for specific markets, primarily in Asia. Featuring conservative, boxy styling typical of compact sedans from the 1990s, it was positioned as an affordable family car. Powered by small four-cylinder engines, typically 1.3L to 1.5L depending on the market, it offered modest performance focused on reliability and economy. The interior was basic but functional, with a straightforward dashboard design and durable materials. This generation established the Verna nameplate in certain markets, though it was identical to the Accent sold elsewhere."
+
+  - name: "Second Generation"
+    start_year: 1999
+    end_year: 2006
+    description: "The second-generation Verna (still based on the Accent) featured more rounded styling in line with late 1990s design trends. Available as a sedan and in some markets as a hatchback, it offered improved interior space and comfort. Engine options typically included 1.3L to 1.6L four-cylinders with better refinement and slightly improved performance. The interior saw enhancements in design and material quality, though still positioned as a value-oriented compact car. This generation continued the Verna's position as Hyundai's primary compact sedan offering in markets where the Accent name wasn't used."
+
+  - name: "Third Generation"
+    start_year: 2005
+    end_year: 2010
+    description: "The third-generation Verna featured more modern styling with a focus on European design influences. Built on a new platform, it offered improved handling, safety, and interior space. Engine options expanded to include more refined and powerful units, typically ranging from 1.4L to 1.6L depending on the market. The interior received significant improvements in design, material quality, and feature content, reflecting Hyundai's overall push toward better quality and value. This generation established the Verna as more than just an economy car, offering features and refinement that began to challenge more established competitors."
+
+  - name: "Fourth Generation"
+    start_year: 2010
+    end_year: 2017
+    description: "The fourth-generation Verna (known as the Accent in many markets and Solaris in Russia) adopted Hyundai's 'Fluidic Sculpture' design language, featuring dynamic, flowing lines that helped it stand out in the compact sedan segment. Built on an updated platform with improved rigidity, it offered better handling, refinement, and safety. Engine options typically included 1.4L and 1.6L four-cylinders with improved efficiency and performance. The interior featured a more sophisticated design with better materials and technology, offering features previously uncommon in its class. This generation significantly elevated the Verna's market position, competing effectively with established compact sedans while maintaining a value advantage."
+
+  - name: "Fifth Generation"
+    start_year: 2017
+    end_year: 2022
+    description: "The fifth-generation Verna featured more mature styling with cleaner lines and a prominent cascading grille that became Hyundai's signature design element. Built on the company's K2 platform, it offered improved dynamics, refinement, and safety. Engine options varied by market but typically included updated 1.4L and 1.6L four-cylinders, with both naturally aspirated and turbocharged variants available in some regions. The interior saw significant enhancements in design, material quality, and technology, featuring an available touchscreen infotainment system with smartphone connectivity and expanded safety features. This generation further established the Verna as a technology and feature leader in its segment, particularly in markets like India where it competed against vehicles like the Honda City and Maruti Suzuki Ciaz."
+
+  - name: "Sixth Generation"
+    start_year: 2023
+    end_year: null
+    description: "The current Verna features the most dramatic styling in the model's history, adopting Hyundai's 'Sensuous Sportiness' design language with a bold, wide parametric grille, connected LED light bar, and coupe-like fastback profile. Significantly larger than its predecessor, it offers near-midsize interior space within a compact exterior footprint. Engine options vary by market but typically include a naturally aspirated 1.5L four-cylinder and a turbocharged 1.5L four-cylinder, paired with manual, conventional automatic, or continuously variable transmissions depending on the variant. The interior represents a complete reinvention with a horizontal dashboard featuring connected dual 10.25-inch screens (instrument cluster and infotainment) under a single piece of glass in higher trims, ambient lighting, and significantly improved materials. Technology has advanced considerably with features like ventilated front seats, advanced driver assistance systems, Bose premium audio, and over-the-air update capability. This generation aims to position the Verna/Accent as a premium offering in the compact sedan segment, particularly in markets like India where sedans still maintain significant popularity despite the global shift toward SUVs."
